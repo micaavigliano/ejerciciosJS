@@ -1,0 +1,13 @@
+var cantidadDePersonas = 100;
+++cantidadDePersonas;
+++cantidadDePersonas;
+++cantidadDePersonas;
+++cantidadDePersonas;
+++cantidadDePersonas;
+console.log("Cantidad de personas: " + cantidadDePersonas);
+--cantidadDePersonas;
+--cantidadDePersonas;
+--cantidadDePersonas;
+console.log("Cantidad de personas: " + cantidadDePersonas);
+cantidadDePersonas *= 2;
+console.log("Cantidad de personas: " + cantidadDePersonas);
