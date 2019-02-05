@@ -19,7 +19,7 @@ apellido = "Gonzalez";
                         nombreCompleto = nombre + " " + apellido; // para agregar un espacio entre medio
                         var espacio = ' ';
                         nombreCompleto = nombre + espacio + apellido;
---------------------
+
 //Tipos de datos:
 // - Strings: cadena de caracteres = texto. Llevan comillas dobles o simples. Se pueden poner números +
 // + caracteres simples y especiales y letras DUH.
