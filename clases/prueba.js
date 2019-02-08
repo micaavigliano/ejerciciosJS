@@ -4,14 +4,14 @@
 //En js cuando se quieren guardar los datos se crea una variable representada como var la cual tiene +
 // + tener un nombre. El nombre de la var tiene que ser: alfanumerico, empezar con una letra o un +
 // +  guión bajo y no puede incorporar ningún otro caracter especial.
---------------------
+
 var nombre = "Micaela";
 // en la misma línea podemos crear una var y guardar un valor
 var apellido = "Avigliano";
 // para reasignar un valor nuevo a una var simplemente hacer lo siguiente:
 apellido = "Gonzalez";
 // Para ir viendo que el código funcione bien usar el console del inspector del navegador
---------------------
+
 //Operadores en JS
 // - Operador de asignación: se utiliza para asignar un valor en el var y se representa por un signo = 
 // - Operador +: se utiliza para concatenar strings +
