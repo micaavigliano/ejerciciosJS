@@ -1,12 +1,12 @@
-var contador = 15;
-var acumulado = ""; 
-var asterisco = "***************"
+//var contador = 15;
+//var acumulado = ""; 
+//var asterisco = "***************"
 
-while(contador > 0) {
-    acumulado = asterisco.slice(0, contador); //ahora acumulado va a valer desde la última posición hasta la primera
-    console.log(acumulado)
-    contador--
-}
+//while(contador > 0) {
+//    acumulado = asterisco.slice(0, contador); //ahora acumulado va a valer desde la última posición hasta la primera
+//    console.log(acumulado)
+//    contador--
+//}
 
 //*************** 
 //************** 
@@ -27,8 +27,8 @@ while(contador > 0) {
 // resta de estrellitas sin métodos:
 
 var a = "";
-var base = 5;
-var resta = 5;
+var base = 15;
+var resta = 15;
 
 while (base > 0) {
     while (resta > 0) {
@@ -40,3 +40,4 @@ while (base > 0) {
     a = ""
     base--
 }
+

@@ -5,7 +5,7 @@ var b = 1;
 //var c = a + b;
 
 while (b <= 1000) {
-    console.log(a + b)
+    console.log('número: ', a + b)
     a = a + b
     b++
 }

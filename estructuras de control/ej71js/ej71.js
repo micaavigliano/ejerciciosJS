@@ -1,6 +1,7 @@
-var b = 1
+var a = 1
 
-while (b <= 10) {
-    console.log(9*b)
-    9 * b
+while (a <= 10) {
+    console.log('9 por ', a, 'es: ', 9*a)
+    9 * a
+    a++
 }

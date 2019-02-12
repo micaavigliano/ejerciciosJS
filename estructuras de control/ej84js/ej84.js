@@ -1,9 +1,9 @@
 var a = '*';
 var b = 1;
 
-while (b <= 13) {
+do {
     console.log(a);
-    a = a + '*'
+    a = a + '*';
     b++;
     b++;
-}
+} while (b <= 13);
