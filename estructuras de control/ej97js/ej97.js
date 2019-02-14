@@ -1,7 +1,8 @@
-for(var a = 1000; a >= 0; a--) {
-    if(a%10 === 0) {
-        console.log('**', a, '**');
+for(var i = 1000; i >= 0; i--) {
+    if(i%10 === 0) {
+        console.log('**', i, '**');
     } else {
-        console.log(a)
+        console.log(i)
     }
 }
+

@@ -1,0 +1,13 @@
+var alumnas = [];
+alumnas[0] = 'Cata';
+alumnas[1] = 'Viki';
+alumnas[2] = 'Aldi';
+alumnas[3] = 'Maru';
+alumnas[4] = 'Euge';
+alumnas[5] = 'Grace';
+console.log('Índice 0: ', alumnas[0]);
+console.log('Índice 1: ', alumnas[1]);
+console.log('Índice 2: ', alumnas[2]);
+console.log('Índice 3: ', alumnas[3]);
+console.log('Índice 4: ', alumnas[4]);
+console.log('Índice 5: ', alumnas[5]);
