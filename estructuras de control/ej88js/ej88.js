@@ -1,3 +1,3 @@
-for (var a = 0; a <= 1000; a++, a++) {
-    console.log('número: ', a);
+for (var i = 0; i <= 1000; i++, i++) {
+    console.log('número: ', i);
 }
