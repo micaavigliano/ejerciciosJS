@@ -7,10 +7,8 @@ var shoppingCart = {
     addProduct: function(objetoParaAgregar) {
         shoppingCart.products.push(objetoParaAgregar)    
     },
-    getTotal: function(sumaObjeto){
-        for (var i = 0; i < shoppingCart.products; i++) {
-            shoppingCart.products['price'] + shoppingCart.products['price']
-        }
+    getTotal: function() {
+        
     }
  }
 

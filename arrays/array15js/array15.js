@@ -1,0 +1,11 @@
+var numeros = [6, 2, 3, 4, 5, 1];
+var primerNumeroEliminado = numeros.shift();
+console.log(numeros);
+var ultimoNumeroEliminado = numeros.pop();
+console.log(numeros);
+var primerNumero = 1;
+var ultimoNumero = 6;
+var primerNumero = numeros.unshift(primerNumero);
+console.log(numeros);
+var ultimoNumero = numeros.push(ultimoNumero);
+console.log(numeros);
